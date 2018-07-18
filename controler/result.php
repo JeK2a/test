@@ -26,8 +26,3 @@ $forms = form::getForms();
 $statistic = form::getStatistic();
 
 require_once('../views/result.php');
-
-
-
-
-
